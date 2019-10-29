@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Martin Schiffner"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Witten, Germany"
   email            :
