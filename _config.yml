@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Martin Schiffner"
   avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ultrasound scientist from the Ruhr valley, Germany. Passionate about computational imaging methods, wave propagation in heterogeneous tissues, and statistical signal processing."
+  bio              : "Ultrasound scientist. Passionate about computational imaging methods, wave propagation in heterogeneous tissues, and statistical signal processing."
   location         : "Witten, Germany"
   email            :
   links:
