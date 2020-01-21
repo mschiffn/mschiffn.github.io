@@ -1,5 +1,9 @@
 ---
 permalink: /research/
 layout: single
-title: "About"
+title: "Research"
 ---
+
+# Computational Imaging
+
+# Nonlinear Wave Propagation
