@@ -1,11 +1,8 @@
 ---
-permalink: /research/
-layout: single
 title: "Research"
-toc: true
-toc_label: "Contents"
+layout: collection
+permalink: /research/
+collection: research
+entries_layout: grid
+classes: wide
 ---
-
-# Computational Imaging
-
-# Nonlinear Wave Propagation
